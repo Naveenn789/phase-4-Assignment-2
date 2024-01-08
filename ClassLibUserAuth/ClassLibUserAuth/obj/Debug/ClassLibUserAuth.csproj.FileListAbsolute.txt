@@ -1,0 +1,6 @@
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\bin\Debug\ClassLibUserAuth.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\bin\Debug\ClassLibUserAuth.pdb
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\obj\Debug\ClassLibUserAuth.csproj.AssemblyReference.cache
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\obj\Debug\ClassLibUserAuth.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\obj\Debug\ClassLibUserAuth.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\ClassLibUserAuth\obj\Debug\ClassLibUserAuth.pdb

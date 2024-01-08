@@ -1,0 +1,17 @@
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\UnitTestUserAuth.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\UnitTestUserAuth.pdb
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\ClassLibUserAuth.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\ClassLibUserAuth.pdb
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\obj\Debug\UnitTestUserAuth.csproj.AssemblyReference.cache
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\obj\Debug\UnitTestUserAuth.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\obj\Debug\UnitTestUserAuth.csproj.CopyComplete
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\obj\Debug\UnitTestUserAuth.dll
+C:\Mphasis\Phase-4\Day-2\Assignment\ClassLibUserAuth\UnitTestUserAuth\obj\Debug\UnitTestUserAuth.pdb
